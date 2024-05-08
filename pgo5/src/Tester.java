@@ -4,7 +4,7 @@ public class Tester {
     public String address;
     public String email;
     public String pesel;
-    public int YearOfEmployment;
+    public int yearOfEmployment;
 
 
 
@@ -14,7 +14,7 @@ public class Tester {
         this.address=address;
         this.email=email;
         this.pesel=pesel;
-        this.YearOfEmployment=yearOfEmployment;
+        this.yearOfEmployment=yearOfEmployment;
     }
 
 
