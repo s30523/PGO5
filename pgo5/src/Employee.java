@@ -1,5 +1,12 @@
 import java.util.ArrayList;
 
 public class Employee {
-    ArrayList<Employee> employees= new ArrayList<Employee>();
+    public String firstName;
+    public String lastName;
+    public String adress;
+    public String email;
+    public String pesel;
+    public int YearOfEmployment;
+    public int salary;
+    public ArrayList<Employee> employees;
 }
